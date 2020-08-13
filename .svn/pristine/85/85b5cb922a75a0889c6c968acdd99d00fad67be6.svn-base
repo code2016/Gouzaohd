@@ -1,0 +1,10 @@
+﻿<Window x:Class="Gouzaohd.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="非对称断面" HorizontalAlignment="Left" Height="32" Margin="122,83,0,0" VerticalAlignment="Top" Width="129" Click="Button_Click"/>
+        <Button Content="对称断面" HorizontalAlignment="Left" Height="37" Margin="122,149,0,0" VerticalAlignment="Top" Width="129" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>
